@@ -1,0 +1,13 @@
+{
+  "provider": "keyauth",
+  "keyauth": {
+    "name": "Artisticsoul.mr.x's Application",
+    "ownerid": "wxJ2rE7e6e",
+    "secret": "65a79796d284c8bce355c8628f6eafe6875007863b3c8e9e1655d2de78923d9f",
+    "version": "1.4"
+  },
+  "database": {
+    "host": "https://myserver.com/api/",
+    "apikey": "abcd1234"
+  }
+}
