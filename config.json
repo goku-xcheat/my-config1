@@ -1,10 +1,10 @@
 {
   "provider": "keyauth",
   "keyauth": {
-    "name": "Artisticsoul.mr.x's Application",
-    "ownerid": "wxJ2rE7e6e",
-    "secret": "65a79796d284c8bce355c8628f6eafe6875007863b3c8e9e1655d2de78923d9f",
-    "version": "1.4"
+    "name": "M CORPORATION",
+    "ownerid": "UPlrlAOZqr",
+    "secret": "dd4465073055f6ccc57301bd3c609c7e03a3cc06678f114a8c2dbf3765b67a6f",
+    "version": "7"
   },
   "database": {
     "host": "https://myserver.com/api/",
@@ -12,6 +12,7 @@
   }
 
 }
+
 
 
 
